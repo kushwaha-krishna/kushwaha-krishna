@@ -23,8 +23,8 @@ I’m studying **Computer Science** and love working on projects that mix strong
 ---
 
 ## 📫 Let’s Connect!
-- 💼 https://www.linkdin.com/in/krishnakushwaha  
-- 🐦 https://x.com/in/Krisna_kuswaha 
+- 💼 https://www.linkedin.com/in/krishnakushwaha
+- 🐦 https://x.com/Krisna_kuswaha
 
 
 ---
