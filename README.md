@@ -25,7 +25,7 @@ I’m studying **Computer Science** and love working on projects that mix strong
 ## 📫 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishnakushwaha)
 - 🧑‍🏫 [Portfolio](https://krishnakushwaha-portfolio.vercel.app/)
-- 🐦 [Twitter](https://x.com/krisna_kuswaha)
+- 🐦 [X](https://x.com/krisna_kuswaha)
 
 
 ---
