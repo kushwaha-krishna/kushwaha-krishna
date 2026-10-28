@@ -1,35 +1,19 @@
-# 👋 Hey there, I'm Krishna!
+# Hey, I'm Krishna 👋
 
-🚀 **Full-Stack Developer | Problem Solver | Tech Explorer**
+🎓 Undergraduate Student | 💻 Full-Stack Developer
 
-I enjoy building **web apps that are simple, fast, and easy to use**.  
-I’m studying **Computer Science** and love working on projects that mix strong backend logic with clean, user-friendly design.
+I turn ideas into web applications and enjoy solving problems through code. Always experimenting, building, and learning something new.
 
----
+### 🛠️ Tech Stack
+`JavaScript` · `React` · `Node.js` · `Express` · `MongoDB` · `MySQL`
 
-## 🔧 Tech Stack & Skills
-- **Frontend:** HTML/EJS, CSS, JavaScript, React (exploring internals & hooks) 
-- **Backend:** Node.js, Express, MongoDB, MySQL  
-- **Authentication:** JWT, bcrypt/Argon2, session management, secure flows  
-- **Other Tools:** Git/GitHub, VS Code, Postman, Nodemailer  
+### 🚀 Currently Exploring
+🤖 AI integration and building better projects.
 
----
-
-## 📈 Goals
-- Build **unique projects** that go beyond basic CRUD apps.
-- Learn **deployment and scaling** for bigger apps.
-- Add **AI features** to make apps smarter.
-
----
-
-## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/krishnakushwaha)
-- 🧑‍🏫 [Portfolio](https://krishnakushwaha-portfolio.vercel.app/)
-- 🐦 [X (Twitter)](https://x.com/krisna_kuswaha)
+### 🤝 Let's Connect
+[`LinkedIn`](https://www.linkedin.com/in/krishnakushwaha) · [`Portfolio`](https://krishnakushwaha-portfolio.vercel.app/) · [`X`](https://x.com/krisna_kuswaha)
 
 
 ---
 
 ⭐️ If you like my work, consider giving my repositories a star—it keeps me motivated!
-
-
