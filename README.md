@@ -1,6 +1,5 @@
 # Hey, I'm Krishna 👋
 
-🎓 Undergraduate Student | 💻 Full-Stack Developer
 
 I turn ideas into web applications and enjoy solving problems through code. Always experimenting, building, and learning something new.
 
